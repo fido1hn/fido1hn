@@ -11,7 +11,7 @@
 
 <a href="https://dev.to/fido1hn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fido1hn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/confidence-ae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/confidence-ae/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/confidence-ae/" target="blank"><img align="center" src="img/logo.svg" alt="https://twitter.com/fido1hn" height="23" width="40" /></a>
+<a href="https://twitter.com/fido1hn" target="blank"><img align="center" src="img/logo.svg" alt="https://twitter.com/fido1hn" height="23" width="40" /></a>
 
 ### Languages and Tools:
 
