@@ -4,7 +4,7 @@
 - I am currently **working** as a **Django developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
 - I am a graduate of the **Computer Science** department from **ESAE University, Benin Republic**
 - I also write articles on [DEV](https://dev.to/fido1hn)
-- You can find my latest resume [here]()
+- You can find my latest resume [here](https://drive.google.com/file/d/1r8-0XfVEJ3Z3VGvop2JvL-c7DSmS669o/view?usp=sharing)
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/confidence-ae)** & **[Twitter](https://twitter.com/fido1hn)**
 
 ### Connect with me
