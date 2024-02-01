@@ -1,15 +1,15 @@
 ## Hi 👋, I'm Confidence
 
-- I am interested in **Backend web development**
-- I am currently **working** as a **Django developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
-- I am a graduate of the **Computer Science** department from **ESAE University, Benin Republic**
-- I also write articles on [DEV](https://dev.to/fido1hn)
+- I am interested in **Web development**
+- I am currently **working** as a **Freelance developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
+<!-- - I also write articles on [DEV](https://dev.to/fido1hn) -->
 - You can find my latest resume [here](https://drive.google.com/file/d/1r8-0XfVEJ3Z3VGvop2JvL-c7DSmS669o/view?usp=sharing)
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/confidence-ae)** & **[Twitter](https://twitter.com/fido1hn)**
 
 ### Connect with me
 
-<a href="https://dev.to/fido1hn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fido1hn" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/fido1hn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fido1hn" height="30" width="40" /></a> -->
+
 <a href="https://linkedin.com/in/confidence-ae/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/confidence-ae/" height="30" width="40" /></a>
 <a href="https://twitter.com/fido1hn" target="blank"><img align="center" src="img/logo.svg" alt="https://twitter.com/fido1hn" height="23" width="40" /></a>
 
