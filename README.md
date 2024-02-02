@@ -2,7 +2,7 @@
 
 <!-- - I also write articles on [DEV](https://dev.to/fido1hn) -->
 
-- I am a **Web developer** with an eye for design
+- I am a **Web developer** with an eye for **design**
 - I am currently **working** as a **Freelance developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
 - You can find my latest resume [here](https://drive.google.com/file/d/1r8-0XfVEJ3Z3VGvop2JvL-c7DSmS669o/view?usp=sharing)
 - You can also reach me via **[Linkedin](https://www.linkedin.com/in/confidence-ae)**, **[Twitter](https://twitter.com/fido1hn)**, or **[Email]()**
