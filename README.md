@@ -1,10 +1,10 @@
-## 👋 Hello World 🌐 My name is Confidence
+## 👋 Confidence Ekeanya
 
-- I am a **Sr. Web developer**
-- I am currently **working** as a **Freelance developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
-- I also write articles on [DEV](https://dev.to/fido1hn), [Medium](https://medium.com/@confidoekeanya)
-- You can find my latest resume [here](https://drive.google.com/file/d/1r8-0XfVEJ3Z3VGvop2JvL-c7DSmS669o/view?usp=sharing)
-- You can also reach me via **[Linkedin](https://www.linkedin.com/in/confidence-ae)**, **[Twitter](https://twitter.com/fido1hn)**, or **[Email](mailto:confidoekeanya@gmail.com)**
+- **Sr. Web developer**
+- Currently **working** as a **Freelance developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
+- I write articles on [DEV](https://dev.to/fido1hn), [Medium](https://medium.com/@confidoekeanya)
+- My latest resume [here](https://drive.google.com/file/d/1r8-0XfVEJ3Z3VGvop2JvL-c7DSmS669o/view?usp=sharing)
+- You can reach me via **[Linkedin](https://www.linkedin.com/in/confidence-ae)**, **[Twitter](https://twitter.com/fido1hn)**, or **[Email](mailto:confidoekeanya@gmail.com)**
 
 ### Connect with me
 
