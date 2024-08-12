@@ -5,7 +5,7 @@
 - Portfolio [here](https://fido1hn.github.io)
 - My latest resume [here](https://drive.google.com/file/d/1r8-0XfVEJ3Z3VGvop2JvL-c7DSmS669o/view?usp=sharing)
 - I also write articles on [Medium](https://medium.com/@confidoekeanya)
-- Learning now 🌴 [rust-lang](https://www.rust-lang.org/)
+- Learning 🌴 [rust-lang](https://www.rust-lang.org/) now
 
 ### Connect with me
 
