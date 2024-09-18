@@ -4,7 +4,7 @@
 - My portfolio [here](https://fido1hn.github.io)
 - My latest resume [here](https://drive.google.com/file/d/16qUW6-NiNZhP6jP2RvRzmJ6nJIlbMxk1/view?usp=sharing)
 - I also write articles on [Medium](https://medium.com/@confidoekeanya)
-- 🌴 Learning Rust, Decentralization
+- 🌴 Learning Rust
 
 ## Connect with me
 
