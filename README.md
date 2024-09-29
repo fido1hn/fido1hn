@@ -1,10 +1,9 @@
 # 👋 Confidence Ekeanya
 
-- **Freelance Developer** on **[Upwork](https://www.upwork.com/freelancers/~0107ac3433c9f9c975)**
 - My portfolio [here](https://fido1hn.github.io)
 - My latest resume [here](https://drive.google.com/file/d/16qUW6-NiNZhP6jP2RvRzmJ6nJIlbMxk1/view?usp=sharing)
-- I also write articles on [Medium](https://medium.com/@confidoekeanya)
-- 🌴 Vue/Nuxt, SQL, GraphQL
+- I write sometimes on [Medium](https://medium.com/@confidoekeanya)
+- 🌴 Vue/Nuxt, SQL
 
 ## Connect with me
 
