@@ -1,6 +1,6 @@
 # 👋 Confidence Ekeanya
 
-Full stack developer, solving atomic problems.
+Solving atomic problems.
 
 - My portfolio [here](https://fido1hn.github.io)
 - My latest resume [here](https://drive.google.com/file/d/16qUW6-NiNZhP6jP2RvRzmJ6nJIlbMxk1/view?usp=sharing)
