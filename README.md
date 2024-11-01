@@ -5,7 +5,7 @@ Solving atomic problems.
 - My portfolio [here](https://fido1hn.github.io)
 - My latest resume [here](https://drive.google.com/file/d/16qUW6-NiNZhP6jP2RvRzmJ6nJIlbMxk1/view?usp=sharing)
 - I write sometimes on [Medium](https://medium.com/@confidoekeanya)
-- 🌴 Vue/Nuxt, SQL
+- 🌴 Vue/Nuxt, SQL, Rust
 
 ## Connect with me
 
